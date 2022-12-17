@@ -1,6 +1,6 @@
 {
-  "name": "better-hextech-craft",
-  "productName": "better-hextech-craft",
+  "name": "sum",
+  "productName": "sum",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
